@@ -7,3 +7,5 @@
 - 📫 How to reach me: mpcsjempreendimentos@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I play the guitar(electric and acoustic), keyboards and piano
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
