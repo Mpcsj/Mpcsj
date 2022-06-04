@@ -19,7 +19,7 @@ Software Engineer at [Turing](https://www.turing.com)/[JusticeText](https://just
 
 Software Engineering B.A. at <a href="https://www.cefetmg.br">Cefet-MG</a>
   
-Here you can read my [resume]([https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589](https://drive.google.com/file/d/1XtdhDwzJnUGP3p3Ga9uMPk1OSIc1u7Nb/view?usp=sharing))/) or visit [my website](https://www.mpcsj.com)
+Here you can read my [resume](https://drive.google.com/file/d/1XtdhDwzJnUGP3p3Ga9uMPk1OSIc1u7Nb/view?usp=sharing) or visit [my website](https://www.mpcsj.com)
   
 Interested in Entrepreneurship, Software and Systems Architecture and music
 
