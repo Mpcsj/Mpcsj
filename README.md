@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Software Engineer at Turing/JusticeText
+- 🔭 I’m currently working as Software Engineer at [Turing](https://www.turing.com)/[JusticeText](https://justicetext.com)
 - 🌱 I’m currently learning AWS services (and preparing for the certifications)
 - 💬 Ask me about mobile development/web development/aws services/data engineering
 - 📫 How to reach me: mpcsjempreendimentos@gmail.com
@@ -14,8 +14,6 @@
 My name is **Marcos Paulo**
 
 I'm on a mission to become the best engineer I can be
-  
-Software Engineer at [Turing](https://www.turing.com)/[JusticeText](https://justicetext.com)
 
 Software Engineering B.A. at <a href="https://www.cefetmg.br">Cefet-MG</a>
   
