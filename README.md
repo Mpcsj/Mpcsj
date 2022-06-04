@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I play the guitar(electric and acoustic), keyboards and piano
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpcsj&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpcsj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mpcsj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
