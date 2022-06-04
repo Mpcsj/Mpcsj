@@ -53,3 +53,4 @@ Dbs, clouds and others<br/><br/>
 </div>
 
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
