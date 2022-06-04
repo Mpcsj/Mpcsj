@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### H there 👋
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/mpcsj/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 - 🔭 I’m currently working as Software Engineer at [Turing](https://www.turing.com)/[JusticeText](https://justicetext.com)
 - 🌱 I’m currently learning AWS services (and preparing for the certifications)
