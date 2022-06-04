@@ -18,7 +18,7 @@ My name is **Marcos Paulo**
 
 I'm on a mission to become the best engineer I can be
 
-Software Engineering B.A. at <a href="https://www.cefetmg.br">Cefet-MG</a>
+Computer Engineering B.A. at <a href="https://www.cefetmg.br">Cefet-MG</a>
   
 Here you can read my [resume](https://drive.google.com/file/d/1XtdhDwzJnUGP3p3Ga9uMPk1OSIc1u7Nb/view?usp=sharing) or visit [my website](https://www.mpcsj.com)
   
