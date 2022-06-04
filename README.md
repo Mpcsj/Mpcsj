@@ -52,4 +52,4 @@ Dbs, clouds and others<br/><br/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/Mpcsj/Mpcsj/blob/output/github-contribution-grid-snake.svg)
+
