@@ -5,6 +5,7 @@
 </a>
 
 - 🔭 I’m currently working as Software Engineer at [Turing](https://www.turing.com)/[JusticeText](https://justicetext.com)
+- 💻 You can visit my Youtube Channel [here](https://www.youtube.com/@mpcsjtechtips)
 - 🌱 I’m currently learning AWS services (and preparing for the certifications)
 - 💬 Ask me about mobile development/web development/aws services/data engineering
 - 📫 How to reach me: mpcsjempreendimentos@gmail.com
