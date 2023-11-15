@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-- 🔭 I’m currently working as Software Engineer at [Turing](https://www.turing.com)/[JusticeText](https://justicetext.com)
+- 🔭 I’m currently working as Software Engineer at [JusticeText](https://justicetext.com)
 - 💻 You can visit my Youtube Channel [here](https://www.youtube.com/@mpcsjtechtips)
 - 🌱 I’m currently learning AWS services (and preparing for the certifications)
 - 💬 Ask me about mobile development/web development/aws services/data engineering
